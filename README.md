@@ -1,1 +1,2 @@
-# CodeClauseInternship_AmazonCloneWebsite
+# amazon-clone
+amazon clone
